@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arseni. I'm iOS developer based in Minsk, Belarus.
-- 👀 I’m interested in native mobile development, cryptocurrencies and blockchain technology. 
+- 👀 I’m interested in native mobile development also with diving into product management, cryptocurrencies and blockchain technology. 
    - I know it's gonna turn into something exciting! :)
 - 📫 How to reach me :
 
